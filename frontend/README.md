@@ -36,11 +36,7 @@ UniNexus-Campus-Platform/
 ## How to Run
 
 ### Backend
-cd backend
-npm install
-npm start
+cd backend > npm install > npm start
 
 ### Frontend
-cd frontend
-npm install
-npm start
+cd frontend > npm install > npm start
